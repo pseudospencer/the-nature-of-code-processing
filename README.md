@@ -1,2 +1,2 @@
 # the-nature-of-code-processing
-My
+My work through Dan Shiffman's the nature of code.
